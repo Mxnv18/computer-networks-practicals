@@ -2,7 +2,7 @@
 
 **Subject:** Computer Networks  
 **Practical:** Dynamic routing with RIPv2 and single-area OSPFv2  
-**Student:** _Add your name and roll number_  
+**Student:** _Manav Garg RA2411003030285 CSE CORE E_  
 **Tool:** Cisco Packet Tracer
 
 > This is an original working template using a different VLSM address plan from the reference material. Build and test the topology in Packet Tracer, then replace the verification placeholders with your own command output and screenshots before submission.
